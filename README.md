@@ -12,3 +12,4 @@ this repository contains my assignments
 
 [Exam R](https://github.com/jespervandoorn/assignments/blob/master/Exam_student%20(1).ipynb)
 
+[Exam python](https://github.com/jespervandoorn/assignments/blob/master/exam_june_7_2018%20(1).ipynb)
